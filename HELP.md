@@ -32,3 +32,5 @@ echo "# learn-springboot-28minute" >> README.md
 * git remote add origin https://github.com/min2das/learn-springboot-28minute.git
 * git branch -M main
 * git push -u origin main
+* git checkout spring-data-jpa    it will create a new branch in local
+* git push -u origin spring-data-jpa  it will push the branch to remote
